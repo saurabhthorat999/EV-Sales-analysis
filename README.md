@@ -1,4 +1,4 @@
-# Electric Vehicle (EV) Industry Analysis
+# Electric Vehicle (EV) Industry Trend Analysis
 - [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjQ5Y2IyNjUtMDNhNi00ZGIyLTk3OTQtY2U2NTRhMzIzYWVkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=3104c62ea2d2ea8d0da7)
 - [Portfolio](https://saurabhthorat999.github.io/n_portfolio/ev.html)   
 ## Project Overview
